@@ -92,7 +92,7 @@ En otra terminal, para mover el carrito de forma autónoma :
 
 ```bash
 cd ~/F1Tenth-Repository 
-ros2 run controllers gap_nodet
+ros2 run controllers gap_node
 ```
 
 <p align="center">
